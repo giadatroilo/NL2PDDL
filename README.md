@@ -68,4 +68,6 @@ After launching, the interface will be accessible in your browser (usually at ht
 
 \- The output of each step (A → D) will be a structured JSON that serves as input for the next step. You can send feedback and directly modify the output of each step if desired.
 
+
+
 \- The last step returns the final PDDL domain.
