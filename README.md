@@ -12,7 +12,7 @@ START-UP INSTRUCTIONS
 
 
 
-1. Prerequisites
+1\. Prerequisites
 
 You need to have Python installed (3.10+ recommended), installed the VSCode BAML extension, and configured the API keys for your LLM models (Azure, Gemini, or Deepseek) as environment variables.
 
