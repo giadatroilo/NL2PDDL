@@ -24,7 +24,7 @@ Clone the repository and configure BAML:
 
 ```bash
 
-git clone \[LINK\_ANONIMO\_DA\_INSERIRE]
+git clone https://github.com/giadatroilo/NL2PDDL.git
 
 cd NL2PDDL
 
