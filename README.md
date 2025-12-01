@@ -4,7 +4,7 @@ This project implements an automated knowledge engineering pipeline for converti
 
 The methodology is based on a modular Chain-of-Thought (CoT) architecture orchestrated by BAML (Built-in AI Markup Language), which ensures structural consistency at every stage.
 
-<img src="img/architecture.png" alt="Architecture" width="75%">
+<img src="img/architecture.png" alt="Architecture" width="100%">
 
 
 
@@ -48,7 +48,7 @@ python app.py
 
 After launching, the interface will be accessible in your browser (usually at http://127.0.0.1:7860).
 
-<img src="img/GUI.png" alt="Gradio Interface" width="75%">
+<img src="img/GUI.png" alt="Gradio Interface" width="100%">
 
 
 
